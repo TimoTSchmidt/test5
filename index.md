@@ -22,47 +22,51 @@ My name is Timo Torsten Schmidt and I am a neuroscientist interested in the neur
 
 ## Employment
 
+
 `since 04/2022` 
+
 __Freie Universität Berlin__ Member of research staff (tenure), Neurocomputation and Neuroimaging Unit; Lecturer and Coordinator of the master program MSc Cognitive Neuroscience Berlin (MCNB)
 
-`04/2018–03/2022` 
+`04/2018 – 03/2022` 
+
 __Freie Universität Berlin__ Postdoctoral Researcher Fellow, Neurocomputation and Neuroimaging Unit, Prof. Dr. Felix Blankenburg
 
-`11/2015–02/2018` 
+`11/2015 – 02/2018` 
+
 __Universtät Osnabrück__ Predoctoral Researcher, Work group cognitive psychology, Dr. Axel Kohler, Dr. Uwe Friese, Cognitive Science Institute
 
-`10/2012–09/2015` 
+`10/2012 – 09/2015` 
+
 __Felix Blankenburg__ Doctoral student, Bernstein Center for Computational Neuroscience Berlin, Prof. Dr. 
 
-`04/2018–03/2022` 
+`04/2018 – 03/2022` 
+
 __Max-Planck-Institute for Human Development, Berlin, Germany__ Predoctoral guest researcher, Center for Adaptive Rationality, Dr. Ralph Hertwig
 
 
-## Technical skills
+## Membership in Scientific Organizations
 
-* Python
-* Javascript (incl. Typescript, React)
-* R
-* Go
-* AWS
-* UNIX
-* Cluster computing
-* Docker
-* Git and GitHub
-* HTML and CSS
-* Bash
-* Agile development
+⦁	Organization for Human Brain Mapping (OHBM)
+⦁	Society for Neuroscience (SfN)
+⦁	Deutsche Neurowissenschaftliche Gesellschaft (NWG)
+⦁	Association for the Scientific Study of Consciousness (ASSC)
+
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+`02/2018`
+__Freie Universität Berlin__ PhD. Psychology (summa cum laude), 
+Department of Education and Psychology, Freie Universität Berlin
 
 `2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+__Charitè Universitätsmedizin Berlin__ 
+MSc. Medical Neuroscience
+International Graduate Program Medical Neurosciences, 
+NeuroCure Cluster of Excellence
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+`2009`
+__Universität Osnabrück__ BSc. Cognitive Science (with distinction)
+Institute of Cognitive Science
 
 ### Certifications
 
