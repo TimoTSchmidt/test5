@@ -39,15 +39,6 @@ __Felix Blankenburg__ Doctoral student, Bernstein Center for Computational Neuro
 `04/2018–03/2022` 
 __Max-Planck-Institute for Human Development, Berlin, Germany__ Predoctoral guest researcher, Center for Adaptive Rationality, Dr. Ralph Hertwig
 
-
-## Membership in Scientific Organizations
-
-* Organization for Human Brain Mapping (OHBM)
-* Society for Neuroscience (SfN)
-* Deutsche Neurowissenschaftliche Gesellschaft (NWG)
-* Association for the Scientific Study of Consciousness (ASSC)
-
-
 ## Education
 
 `02/2018`
@@ -64,9 +55,24 @@ NeuroCure Cluster of Excellence
 __Universität Osnabrück__ BSc. Cognitive Science (with distinction)
 Institute of Cognitive Science
 
-### Certifications
+### Stipends and Fellowships
 
-`2021-24` __AWS Certified Solutions Architect__ (_Associate_)
+`2017 - 2018` 
+Open Science Fellow Program of Wikimedia e.V. 
+Project: The Altered States Database					€   5.000
+
+`2012 - 2015` 
+PhD Stipendium for 3 years of Graduate school GRK1589
+Sensory computation in neural systems,
+Bernstein Center for Computational Neuroscience, Berlin 	ca. 	€ 48.000
+
+`2011` 
+Stipend of Network for European Neuroscience Schools (NENS) 
+for a Training Stay with Prof. Dr. Panagis, University of Crete, Greece 	€   1.000
+
+`2009 - 2011` 
+Stipend of NeuroCure cluster of excellence (awarded performance based), 
+Charitè Berlin, for 1.5 years, Master in Medical Neuroscience  	ca. 	€   9.000
 
 ## Areas of expertise
 
