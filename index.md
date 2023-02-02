@@ -2,17 +2,17 @@
 layout: cv
 title: Timo Schmidts's CV
 ---
-# Timo Schmidt
+# Timo Torsten Schmidt
 ![Pic Timo](/media/TIMOPIC.png)
 
-Brain science guy
+NEUROSCIENCE + SCIENCE COMMUNICATION
 
 <div id="webaddress">
 <a href="mailto:timo.t.schmidt@fu-berlin.de">timo.t.schmidt@fu-berlin.de</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="https://github.com/TimoTSchmidt">timotschmidt</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="https://twitter.com/titoschmi">titoschmi</a>
 </div>
 
 
