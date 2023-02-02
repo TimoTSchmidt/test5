@@ -59,7 +59,7 @@ Institute of Cognitive Science
 
 `2017 - 2018` 
 Open Science Fellow Program of Wikimedia e.V. 
-Project: The Altered States Database					€   5.000
+Project: The Altered States Database					<b> €   5.000 <b>
 
 `2012 - 2015` 
 PhD Stipendium for 3 years of Graduate school GRK1589
