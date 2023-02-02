@@ -59,20 +59,20 @@ Institute of Cognitive Science
 
 `2017 - 2018` 
 Open Science Fellow Program of Wikimedia e.V. 
-Project: The Altered States Database					<b> €   5.000 <b>
+Project: The Altered States Database					__€   5.000__
 
 `2012 - 2015` 
 PhD Stipendium for 3 years of Graduate school GRK1589
 Sensory computation in neural systems,
-Bernstein Center for Computational Neuroscience, Berlin 	ca. 	€ 48.000
+Bernstein Center for Computational Neuroscience, Berlin 	ca. 	__€ 48.000__
 
 `2011` 
 Stipend of Network for European Neuroscience Schools (NENS) 
-for a Training Stay with Prof. Dr. Panagis, University of Crete, Greece 	€   1.000
+for a Training Stay with Prof. Dr. Panagis, University of Crete, Greece 	__€   1.000__
 
 `2009 - 2011` 
 Stipend of NeuroCure cluster of excellence (awarded performance based), 
-Charitè Berlin, for 1.5 years, Master in Medical Neuroscience  	ca. 	€   9.000
+Charitè Berlin, for 1.5 years, Master in Medical Neuroscience  	ca. 	__€   9.000__
 
 ## Areas of expertise
 
