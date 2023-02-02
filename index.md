@@ -5,7 +5,7 @@ title: Timo Schmidts's CV
 # Timo Schmidt
 ![Pic Timo](/media/TIMOPIC.png)
 
-Bioinformatics PhD and Solutions Architect
+Brain science guy
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">ben@blm.io</a>
