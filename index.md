@@ -24,32 +24,26 @@ My name is Timo Torsten Schmidt and I am a neuroscientist interested in the neur
 
 
 `since 04/2022` 
-
 __Freie Universität Berlin__ Member of research staff (tenure), Neurocomputation and Neuroimaging Unit; Lecturer and Coordinator of the master program MSc Cognitive Neuroscience Berlin (MCNB)
 
-`04/2018 – 03/2022` 
-
+`04/2018–03/2022` 
 __Freie Universität Berlin__ Postdoctoral Researcher Fellow, Neurocomputation and Neuroimaging Unit, Prof. Dr. Felix Blankenburg
 
-`11/2015 – 02/2018` 
-
+`11/2015–02/2018` 
 __Universtät Osnabrück__ Predoctoral Researcher, Work group cognitive psychology, Dr. Axel Kohler, Dr. Uwe Friese, Cognitive Science Institute
 
-`10/2012 – 09/2015` 
-
+`10/2012–09/2015` 
 __Felix Blankenburg__ Doctoral student, Bernstein Center for Computational Neuroscience Berlin, Prof. Dr. 
 
-`04/2018 – 03/2022` 
-
+`04/2018–03/2022` 
 __Max-Planck-Institute for Human Development, Berlin, Germany__ Predoctoral guest researcher, Center for Adaptive Rationality, Dr. Ralph Hertwig
 
 
 ## Membership in Scientific Organizations
-
-⦁	Organization for Human Brain Mapping (OHBM)
-⦁	Society for Neuroscience (SfN)
-⦁	Deutsche Neurowissenschaftliche Gesellschaft (NWG)
-⦁	Association for the Scientific Study of Consciousness (ASSC)
+*	Organization for Human Brain Mapping (OHBM)
+*	Society for Neuroscience (SfN)
+*	Deutsche Neurowissenschaftliche Gesellschaft (NWG)
+*	Association for the Scientific Study of Consciousness (ASSC)
 
 
 ## Education
