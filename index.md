@@ -8,7 +8,7 @@ title: Timo Schmidts's CV
 Brain science guy
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:timo.t.schmidt@fu-berlin.de">timo.t.schmidt@fu-berlin.de</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
 |
