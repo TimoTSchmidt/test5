@@ -1,9 +1,10 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Timo Schmidts's CV
 ---
-# Benjamin L. Moore
+# Timo Schmidt
 Bioinformatics PhD and Solutions Architect
+![Pic Timo](/least-github-pages/media/TIMOPIC.png)
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">ben@blm.io</a>
@@ -16,7 +17,7 @@ Bioinformatics PhD and Solutions Architect
 
 ## Currently
 
-I'm a Senior Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
+I'm a Brain scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
 
 ## Employment
 
