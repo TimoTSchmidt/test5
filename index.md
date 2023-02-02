@@ -1,11 +1,11 @@
 ---
 layout: cv
-title: Timo Schmidt
+title: Timo Torsten Schmidt's CV
 ---
 # Timo Torsten Schmidt
+Neuroscience + Science Communication
 ![Pic Timo](/media/TIMOPIC.png)
 
-NEUROSCIENCE + SCIENCE COMMUNICATION
 
 <div id="webaddress">
 <a href="mailto:timo.t.schmidt@fu-berlin.de">timo.t.schmidt@fu-berlin.de</a>
