@@ -107,9 +107,7 @@ PFC maintains abstract quantitative but not spatial tactile stimulus features du
 
 `2019`		Head of conference organization of 10-jähriges Jubiläum (2 day event) of the Center for Cognitive Neuroscience Reception, Science Slam, Art exhibit, speaker coordination, social events
 
-#Freie Universität Berlin {
-	page-break-before: always;
-}
+__Freie Universität Berlin__
 
 `since 2019`	Member examination board
 
