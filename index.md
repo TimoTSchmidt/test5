@@ -40,12 +40,12 @@ __Felix Blankenburg__ Doctoral student, Bernstein Center for Computational Neuro
 __Max-Planck-Institute for Human Development, Berlin, Germany__ Predoctoral guest researcher, Center for Adaptive Rationality, Dr. Ralph Hertwig
 
 
-## Membership of sci
+## Membership in Scientific Organizations
 
-* ⦁	Organization for Human Brain Mapping (OHBM)
-* ⦁	Society for Neuroscience (SfN)
-* ⦁	Deutsche Neurowissenschaftliche Gesellschaft (NWG)
-* ⦁	Association for the Scientific Study of Consciousness (ASSC)
+* Organization for Human Brain Mapping (OHBM)
+* Society for Neuroscience (SfN)
+* Deutsche Neurowissenschaftliche Gesellschaft (NWG)
+* Association for the Scientific Study of Consciousness (ASSC)
 
 
 ## Education
