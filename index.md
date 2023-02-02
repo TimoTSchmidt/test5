@@ -4,6 +4,7 @@ title: Timo Torsten Schmidt's CV
 ---
 # Timo Torsten Schmidt
 Neuroscience + Science Communication
+
 ![Pic Timo](/media/TIMOPIC.png)
 
 
