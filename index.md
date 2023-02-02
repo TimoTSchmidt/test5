@@ -74,6 +74,23 @@ for a Training Stay with Prof. Dr. Panagis, University of Crete, Greece 	__€  
 Stipend of NeuroCure cluster of excellence (awarded performance based), 
 Charitè Berlin, for 1.5 years, Master in Medical Neuroscience  	ca. 	__€   9.000__
 
+### Awards
+
+`2021` 
+Teaching award of the Department of Education and Psychology for best teaching evaluations, Freie Universität Berlin
+
+`2017` 
+Teaching award of the Institute of Cognitive Science for the best teaching evaluations, Universität Osnabrück 					__€   1.000__
+
+`2015` 
+Teaching award of the Institute of Cognitive Science for excellent teaching evaluations, Universität Osnabrück 					__€      500__
+
+`2015` 
+Abstract Merit Award of the Organization for Human Brain Mapping (OHBM): 
+PFC maintains abstract quantitative but not spatial tactile stimulus features during working memory 						__$   2.000__
+
+
+
 ## Areas of expertise
 
 * Bioinformatics
