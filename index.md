@@ -74,6 +74,34 @@ for a Training Stay with Prof. Dr. Panagis, University of Crete, Greece 	__€  
 Stipend of NeuroCure cluster of excellence (awarded performance based), 
 Charitè Berlin, for 1.5 years, Master in Medical Neuroscience  	ca. 	__€   9.000__
 
+## Funding
+
+`2022` 
+	Competitive institutional funding: Internationalization Booster
+	Project: Building an onboarding platform for the MSc Cognitive Neuroscience
+Freie Universität Berlin							__€   9.000__
+
+`2022` 
+Industry funding (Donation without obligation)
+Project: Promoting Visual Flicker Light Stimulation Research 
+Lumenate Growth Ltd., Bristol, UK 					__€ 15.000__
+
+`2021/2022` 
+Funding for a X-Student Research Group
+Title of teaching activity: Print your brain				__€   2.050__ 
+Berlin University Alliance 						__€   1.950__
+
+`2021/2022` 
+Freie Universität Berlin							__€    700__ __€   750__ __€   2.000__
+
+`2019/2020` 
+Competitive institutional funding: Research incentive funding		__€   1.500__
+
+`2019` 
+	Funding for buying equipment
+Project: Neural correlates of flicker light induced altered states of consciousness
+Sonnenfeld Stiftung Berlin 						__€   2.560__
+
 ### Awards
 
 `2021` 
@@ -124,12 +152,12 @@ __Freie Universität Berlin__
 `2013-2015`	Member of Steering Committee (Student representative) of the graduate school GRK 1589/1 und 1589/2: Sensory Computation in Neural Systems, Bernstein Center for Computational Neuroscience Berlin
 
 
-## Areas of expertise
+## Membership in Scientific Organizations
 
-* Bioinformatics
-* Software development
-* Cloud engineering and automation
-* Single-page applications
+* Organization for Human Brain Mapping (OHBM)
+* Society for Neuroscience (SfN)
+* Deutsche Neurowissenschaftliche Gesellschaft (NWG)
+* Association for the Scientific Study of Consciousness (ASSC)
 * Population genomics
 * Machine learning
 * Data visualisation
