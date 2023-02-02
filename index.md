@@ -16,19 +16,27 @@ NEUROSCIENCE + SCIENCE COMMUNICATION
 </div>
 
 
-## Currently
+## Curriculum Vitae 
 
-I'm a Brain scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
+My name is Timo Torsten Schmidt and I am a neuroscientist interested in the neuronal underpinnings of human consciousness. I work with methods from the field of computational cognitive neuroscience with a focus on functional neuroimaging.
 
 ## Employment
 
-`2020-` 
-__Illumina, Inc.__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
-> My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
+`since 04/2022` 
+__Freie Universität Berlin__ Member of research staff (tenure), Neurocomputation and Neuroimaging Unit; Lecturer and Coordinator of the master program MSc Cognitive Neuroscience Berlin (MCNB)
 
-`2015-20` 
-__Illumina, Inc.__ Bioinformatics Scientist (data scientist and statistical programmer).
-> I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
+`04/2018 – 03/2022` 
+__Freie Universität Berlin__ Postdoctoral Researcher Fellow, Neurocomputation and Neuroimaging Unit, Prof. Dr. Felix Blankenburg
+
+`11/2015 – 02/2018` 
+__Universtät Osnabrück__ Predoctoral Researcher, Work group cognitive psychology, Dr. Axel Kohler, Dr. Uwe Friese, Cognitive Science Institute
+
+`10/2012 – 09/2015` 
+__Felix Blankenburg__ Doctoral student, Bernstein Center for Computational Neuroscience Berlin, Prof. Dr. 
+
+`04/2018 – 03/2022` 
+__Max-Planck-Institute for Human Development, Berlin, Germany__ Predoctoral guest researcher, Center for Adaptive Rationality, Dr. Ralph Hertwig
+
 
 ## Technical skills
 
