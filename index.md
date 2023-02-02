@@ -89,6 +89,39 @@ Teaching award of the Institute of Cognitive Science for excellent teaching eval
 Abstract Merit Award of the Organization for Human Brain Mapping (OHBM): 
 PFC maintains abstract quantitative but not spatial tactile stimulus features during working memory 						__$   2.000__
 
+## Contributions to academic self-governance and science management
+
+`2022`	Host of Delegation from Burapha University, Thailand to establish international collaborations with the Center for Cognitive Neuroscience Berlin
+
+`since 2021`	Coordinator of the international MSc Program Cognitive Neuroscience, Freie Universität Berlin
+
+`since 2021`	Member of the Institutional Review Board (Ethikkommission des Fachbereichs Erziehungswissenschaft und Psychologie), Freie Universität Berlin
+
+`2021`	Member of workgroup Strategieprozess Studium und Lehre 2030, Freie Universität Berlin
+
+`2020-2022`	Member of the selection committee of the Gender-Research Award, Freie Universität Berlin
+
+`Since 2022`	Co-Group leader of Psychotropic Substance Working Group, at St. Hedwig Hospital Berlin, Charité Universitätsmedizin Berlin
+
+`2019`	Evaluation of PhD applications of Berlin school of Mind and Brain, Humboldt Universität Berlin
+
+`2019`		Head of conference organization of 10-jähriges Jubiläum (2 day event) of the Center for Cognitive Neuroscience Reception, Science Slam, Art exhibit, speaker coordination, social events
+
+`Freie Universität Berlin`
+
+`since 2019`	Member examination board
+
+`since 2018`	Member admission committee, MSc Social Cognitive and Affective Neuroscience, Freie Universität Berlin
+
+`since 2018`	Public Relations Manager: Twitter, Website, Image Video Center for Cognitive Neuroscience Berlin, Freie Universität Berlin
+
+`2017`		Conference organizer #Drugscience2017 Konferenz, Charité Berlin, Pre-conference workshops, Speaker coordination, Session chair, Finances
+
+`since 2017`	Coordinator of the colloquium of the Center for Cognitive Neuroscience Berlin, Freie Universität Berlin
+
+`2016`	Member of the commission to develop PhD examination regulations for „Dr. rer. nat.“, Fachbereich Erziehungswissenschaften und Psychologie, Freie Universität Berlin
+
+`2013-2015`	Member of Steering Committee (Student representative) of the graduate school GRK 1589/1 und 1589/2: Sensory Computation in Neural Systems, Bernstein Center for Computational Neuroscience Berlin
 
 
 ## Areas of expertise
