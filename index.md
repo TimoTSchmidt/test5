@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Timo Schmidts's CV
+title: Timo Schmidt
 ---
 # Timo Torsten Schmidt
 ![Pic Timo](/media/TIMOPIC.png)
